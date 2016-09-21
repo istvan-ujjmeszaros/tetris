@@ -1,0 +1,58 @@
+Ujj M‚sz ros Istv n
+                                 TETRIS
+ 
+                       /Felhaszn l¢i dokument ci¢/
+
+Ez egy j t‚kprogram, amiben kl”nb”z” alakok jelennek meg. Ezeket forgatni ‚s
+eltolni lehet. A l‚nyeg, hogy teljes sorokat rakjunk ki. Ha ez sikerl, akkor
+a sor eltnik. Minn‚l tov bb b¡rjuk, ann l jobb. Sok sikert hozz  !
+
+Fejleszt”i k”rnyezet:
+
+ A program TurboPascal 7.0-ban ¡r¢dott.A grafikai unit rengeteg assembler be-
+ t‚tet tartalmaz.
+
+ Fejleszt‚si konfigur ci¢:
+                          AMD486 DX4 100Mhz
+                          16Mb RAM
+                          Cirrus SVGA 1Mb
+
+A program ind¡t sa:
+ 
+ 1. L‚pjen a TETRIS programot tartalmaz¢ k”nyvt rba.
+    >CD C:\TETRIS
+ 2. Ind¡tsa el a TETRIS.EXE file-t.
+    >TETRIS  [ENTER]
+
+A program ind¡t sakor a f”men jelenik meg. Ez a men t j‚koztat a kl”nb”z”
+menk beh¡v s nak, illetve £j j t‚k kezd‚s‚nek a m¢dj r¢l:
+
+ - F1: Uj j t‚kot kezdhetnk
+ - F2: F”men
+ - F3: Megtekinthetjk a TOP10-et
+ - F4: N‚h ny be ll¡t st eszk”z”lhetnk
+ - F5: A j t‚k k”zben haszn latos billentyk
+
+A j t‚k k”zben haszn latos billentykr”l az F5 men t j‚koztat.
+
+A progranm fut s hoz szks‚ges file-ok:
+ 
+  TETRIS.EXE
+  PAL.DAT
+  CHAR.DAT
+  ALAK.DAT
+
+Ezen file-ok b rmelyik‚nek hi nya miatt a program fut sa le ll.
+A szks‚ges file-okat szerezze be !
+A program automatikusan l‚trehozza a k”vetkez” file-t:
+
+  TETRIS.DAT
+
+Ez a file a toplista adatait tartalmazza, ha let”r”ljk, elvesznek addigi 
+pontsz maink.
+
+A program tov bbi fejleszt‚s‚re lehet”s‚g van.A k”zelj”v”ben v rhat¢ az
+esetleges hib k kijav¡t sa, t”bb j t‚kos opci¢, stb.
+
+  Sok sikert k¡v n a j t‚khoz: Ujj M‚sz ros Istv n
+
